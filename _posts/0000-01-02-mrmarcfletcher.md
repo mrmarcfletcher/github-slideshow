@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The quick Brown fox jumps over the lazy dog
 Use the left arrow to go back!
